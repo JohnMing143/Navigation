@@ -3,14 +3,15 @@
 一个简约的起始页
 </p>
 
-![Snavigation.png](https://s2.loli.net/2022/07/15/FE6U2BJCynHDep8.jpg)
 
->尚未完成
+
+>未完待续
+ 计划将基于目前进度继续完善开发，但目前已高度可用
 
 ### Demo
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [Snavigation](https://snavigation.vercel.app/)
+- [Snavigation](https://nav.ming143.live/)
 
 ### 功能
 
@@ -21,7 +22,7 @@
 - [x] 网站背景自定义
 - [x] 数据备份及恢复
 - [x] 移动端适配
-* [ ] 还没想好呢
+
 
 ### 插件
 
@@ -40,5 +41,6 @@
 
 * [青柠起始页](https://limestart.cn/)
 * [sou2](https://github.com/yeetime/sou2/)
+* [missy](https://github.com/imsyy/Snavigation)
 
 <a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2022-%E7%84%A1%E5%90%8D-red"></a>
